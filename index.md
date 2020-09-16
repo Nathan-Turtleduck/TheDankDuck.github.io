@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/TheDankDuck/TheDankDuck.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm still learning how to use this page and maintain it. But, if we're not learning, *then what are we doing?*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+**Short Auto-Bio**
+I've been coding for about 2 years now. I never did any CS stuff at all until my first year of college. So far I am loving the CS program, but more importantly **I love coding.**
+After college is over, I would love to work for a game company or start my own indie game company (Likely while I'm working as a Computer Scientist for some corporation)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm so excited to see what the future has in store for me.
 
-```markdown
-Syntax highlighted code block
+## Cheesy Quote
 
-# Header 1
-## Header 2
-### Header 3
+Nathan Maroko 2020:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheDankDuck/TheDankDuck.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Learning is cool and stuff, but playing video games is cool too
